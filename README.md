@@ -1,6 +1,5 @@
 # 🛡️ FraudShield - AI-Powered Fraud Detection Platform
 
-[![CI/CD](https://github.com/Manas2006/fraud-detection/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Manas2006/fraud-detection/actions/workflows/ci-cd.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://openjdk.java.net/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-blue.svg)](https://spring.io/projects/spring-boot)
