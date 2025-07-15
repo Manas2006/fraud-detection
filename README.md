@@ -19,10 +19,6 @@
 ![Message Analysis](images/message-analysis.png)
 *AI-powered message analysis with detailed fraud risk assessment*
 
-### 📱 Responsive Design
-![Mobile View](images/mobile-responsive.png)
-*Beautiful responsive design that works on all devices*
-
 ### 📊 Message Monitoring
 ![Message Monitoring](images/message-monitoring.png)
 *Comprehensive message monitoring with filtering and export capabilities*
